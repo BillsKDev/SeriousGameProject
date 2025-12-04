@@ -7,7 +7,7 @@ VAR VapeChoices = 0
 VAR EndingNumber = 0
 
 VAR PlayerName = ""
-VAR PlayerGrade = 0 
+
 -> prologue  
 
 === prologue  === 
@@ -20,10 +20,6 @@ You have heard that they are called vapes, but aren't sure what they do. Take ca
    * I will do my best
 -> Act1Scene1   
 -> DONE
-
- 
-
-
 
 #E.ShowMaterials
 #E.ReturnToMain
