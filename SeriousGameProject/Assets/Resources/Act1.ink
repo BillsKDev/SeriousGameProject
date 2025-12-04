@@ -1,5 +1,4 @@
 
-VapeInteractions.ink
 VAR CHOICENUMBER = 0 
 === Act1Scene1 === 
 You arrive at School, slightly earlier than normal and spot your friend Edward milling about, do you head over to talk to them or simply take some time looking at your phone?
