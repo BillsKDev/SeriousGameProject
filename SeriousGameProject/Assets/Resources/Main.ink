@@ -11,13 +11,14 @@ VAR PlayerName = ""
 -> prologue  
 
 === prologue  === 
-You are a high school student, just navigating daily life, however you have noticed pen like device throughout the school, and a few of your friends have been using them as well. 
+You are a high school student, just navigating daily life; however, you have noticed pen-like devices throughout the school, and a few of your friends have been using them as well. 
 
-You have heard that they are called vapes, but aren't sure what they do. Take care navigating situations regarding these vapes, and good luck.  
+You have heard that they are called vapes, but aren't sure what they do. Take care navigating situations regarding these vapes, and good luck. 
+ 
 {PlayerName == "":
     ~PlayerName = "Sam"
 }
-   * I will do my best
+   * [I will do my best]
 -> Act1Scene1   
 -> DONE
 
