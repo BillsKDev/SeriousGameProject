@@ -58,10 +58,6 @@ Hey {PlayerName}, what are you doing alone over there? Get over here!
      * Head to the back of the school during lunch, near the shed,{CHOICENUMBER == 1: bring the vape pen with you. |bring your textbook.}
     -> Interaction2_1
     
-
-=== Act1Complete ===
-Act 1 Complete 
-
 -> DONE
 
 === Interaction2_1 ===
