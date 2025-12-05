@@ -171,4 +171,6 @@ Hey {PlayerName}, glad to see you. Did you bring the vape?
 
 === VapeUsedIteraction1 ===
    You decide to try it out, and despite coughing a bit on the first tries, you find the taste great, and spend the rest of the lunch period vaping and talking with Anthony, Edward and their group. 
+   #E.Main
+      -> EndingUsedVape
 -> DONE

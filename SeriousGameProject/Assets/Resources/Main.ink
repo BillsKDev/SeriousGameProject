@@ -57,7 +57,7 @@ Lesson: Sometimes the best way to handle peer pressure is through clever negotia
 #E.EndingOkay
 You managed to refuse the offer to vape by making excuses about your "lungs not doing so well" and "screwing them up while running earlier." Anthony wasn't happy and called you lame, but you held your ground and stayed vape-free. You spent the rest of lunch awkwardly talking to the others, but you felt good about your choice later.
 
-Lesson: Saying no isn't always easy or popular, but your health is more important than what others think of you in the moment. Standing up for your well-being builds self respect.
+Lesson: Saying no isn't always easy or popular, but your health is more important than what others think of you in the moment. Standing up for your well-being builds self respect while also saving your physical and mental health.
 -> END
 
 === EndingWalkedAwayNoHelp ===
@@ -73,5 +73,5 @@ Lesson: Sometimes the strongest action you can take is to physically remove your
 #E.EndingNeutral
 You initially decided to stay put and scroll social media rather than immediately engaging with Edward. Later, when the note came, you chose to walk away from the invitation entirely ("I will talk to you later"). You successfully navigated Act 1 without getting deeply involved in the social drama or the vapes.
 
-Lesson: You managed to avoid the conflict entirely by choosing your own path. Being comfortable with your own choices, separate from the crowd, is a valuable life skill.
+Lesson: You managed to avoid the conflict entirely by choosing your own path. Being comfortable with your own choices, separate from the crowd, is a valuable life skill and has saved you from negative physical and mental health.
 -> END

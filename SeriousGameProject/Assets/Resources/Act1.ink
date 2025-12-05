@@ -17,7 +17,7 @@ You arrive at School, slightly earlier than normal and spot your friend Edward m
 
 
  === Interaction1 ===
- #E.Main
+ #E.Friend
 {CHOICENUMBER == 1:
 Hey {PlayerName} what's up, you manage to complete the work that Mr Hudson gave us? 
 -> Interaction1_1
