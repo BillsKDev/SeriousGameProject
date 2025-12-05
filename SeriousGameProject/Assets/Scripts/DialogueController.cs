@@ -6,7 +6,7 @@ using System.Text;
 
 public class DialogueController : MonoBehaviour
 {
-    Story _story;
+    public static Story _story { get; private set; }
 
     [SerializeField] TMP_Text _storyText;
     [SerializeField] Button[] _choiceButtons;

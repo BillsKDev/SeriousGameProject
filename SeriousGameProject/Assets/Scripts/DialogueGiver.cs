@@ -7,6 +7,13 @@ public class DialogueGiver : MonoBehaviour
 
     private void Start()
     {
+        PlayerSetUp.StartStory += StartDialogue;
+    }
+
+    public void StartDialogue()
+    {
         FindFirstObjectByType<DialogueController>().StartDialog(_dialog);
     }
+    
+    
 }
