@@ -1,6 +1,7 @@
 
 VAR CHOICENUMBER = 0 
 === Act1Scene1 === 
+
 You arrive at School, slightly earlier than normal and spot your friend Edward milling about. Do you head over to talk to them or simply take some time looking at your phone?
 
 * [Head over]
@@ -16,6 +17,7 @@ You arrive at School, slightly earlier than normal and spot your friend Edward m
 
 
  === Interaction1 ===
+ #E.Main
 {CHOICENUMBER == 1:
 Hey {PlayerName} what's up, you manage to complete the work that Mr Hudson gave us? 
 -> Interaction1_1
@@ -53,6 +55,7 @@ Hey {PlayerName}, what are you doing alone over there? Get over here!
     
 
  === Interaction2 ===
+ #E.Classroom
      In the 2nd period, while your English teacher is teaching the class on the structure of an essay, Edward passes you a note...
     
      * Head to the back of the school during lunch, near the shed,{CHOICENUMBER == 1: bring the vape pen with you. |bring your textbook.}
@@ -61,14 +64,14 @@ Hey {PlayerName}, what are you doing alone over there? Get over here!
 -> DONE
 
 === Interaction2_1 ===
-
+#E.Outside
 
 
 {CHOICENUMBER == 2 : 
     You head over with your textbook. 
  -> vapeInteraction2 
  }
-
+#E.Classroom
  What do you do?
 
  {CHOICENUMBER == 3 :

@@ -16,11 +16,10 @@ You have heard that they are called vapes, but aren't sure what they do. Take ca
    * [I will do my best]
 -> Act1Scene1   
 -> DONE
-#E.ShowMaterials
-#E.ReturnToMain
 -> END
 
 === Act1Complete ===
+#E.Main
 End of Story. Time to see the consequences of your actions.
 
 {

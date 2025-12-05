@@ -39,7 +39,7 @@ Edward retrieves a pen-shaped object from his pocket and hands it to you.
 
 
 === vapeInteraction2 === 
-
+#E.Outside
 
 Near the shed, I see Anthony, Edward, and a few of their friends chatting while some are vaping. 
     
